@@ -5,7 +5,7 @@ namespace Tests\AppBundle\Util;
 use PHPUnit\Framework\TestCase;
 use AppBundle\Util\Calculator;
 
-class CalculatorTest
+class CalculatorTest extends TestCase
 {
     public function testAdd()
     {

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a8a341178686f201ec9cf05e7c394af7",
+    "content-hash": "d958b5feb2b56650fb6d53075776d2ab",
     "packages": [
         {
             "name": "composer/ca-bundle",
@@ -3686,16 +3686,16 @@
         },
         {
             "name": "symfony/phpunit-bridge",
-            "version": "v3.4.10",
+            "version": "v4.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/phpunit-bridge.git",
-                "reference": "63cdae00a75862fa543b765ba63d55f6b6397d0c"
+                "reference": "b3c53eb42f6527498a1c99cb3051ada7dc6b4225"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/phpunit-bridge/zipball/63cdae00a75862fa543b765ba63d55f6b6397d0c",
-                "reference": "63cdae00a75862fa543b765ba63d55f6b6397d0c",
+                "url": "https://api.github.com/repos/symfony/phpunit-bridge/zipball/b3c53eb42f6527498a1c99cb3051ada7dc6b4225",
+                "reference": "b3c53eb42f6527498a1c99cb3051ada7dc6b4225",
                 "shasum": ""
             },
             "require": {
@@ -3714,7 +3714,7 @@
             "type": "symfony-bridge",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "3.4-dev"
+                    "dev-master": "4.1-dev"
                 },
                 "thanks": {
                     "name": "phpunit/phpunit",
@@ -3748,7 +3748,7 @@
             ],
             "description": "Symfony PHPUnit Bridge",
             "homepage": "https://symfony.com",
-            "time": "2018-05-16T12:49:49+00:00"
+            "time": "2018-07-05T11:54:23+00:00"
         },
         {
             "name": "theseer/tokenizer",
