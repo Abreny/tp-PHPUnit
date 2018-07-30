@@ -2,3 +2,6 @@ vendor
 vendor/*
 var
 var/*
+app/config/config.yml
+app/config/config*.yml
+app/config/parameters.yml
